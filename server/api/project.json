@@ -1,0 +1,15 @@
+[
+  {
+    "name": "docker",
+    "projectDirName": "dist",
+    "host": "localhost",
+    "username": "root",
+    "port": "10022",
+    "serverPath": "/usr/local/nginx/html",
+    "password": "g7845120",
+    "url": "http://localhost:10080",
+    "nginxPath": "/usr/local/nginx/",
+    "id": "62bc4bc7-0de6-4973-9bd1-f1743257ad5e",
+    "publishDate": 1614150193429
+  }
+]

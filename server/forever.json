@@ -1,0 +1,7 @@
+{
+  "uid": "publish-system",
+  "append": true,
+  "watch": true,
+  "script": "bin/www",
+  "logFile": "/usr/local/publish-system.log"
+}

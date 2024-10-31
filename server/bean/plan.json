@@ -1,0 +1,20 @@
+[
+  {
+    "pId": "25a23f17-cfb6-47b3-9183-d3e20a2940b3",
+    "path": "F:\\main\\publish-system\\tem\\upload_0fa8a2039e9f36f1886b0a31dc1db19a",
+    "info": "计划周末凌晨发布",
+    "planDate": "1627142400000",
+    "executedInfo": "",
+    "status": 0,
+    "id": "f0da8fc6-c3de-4375-bcac-66054eb07203"
+  },
+  {
+    "pId": "25a23f17-cfb6-47b3-9183-d3e20a2940b3",
+    "path": "F:\\main\\publish-system\\tem\\upload_13177ce63537c8b04371a243ef3fdc7a",
+    "info": "周六发布",
+    "planDate": "1626883200000",
+    "executedInfo": "发布成功",
+    "status": 1,
+    "id": "30a9d26a-fec8-4569-b567-00d350e2ba29"
+  }
+]

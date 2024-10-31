@@ -1,0 +1,29 @@
+[
+  {
+    "name": "docker",
+    "projectDirName": "dist",
+    "host": "localhost",
+    "username": "root",
+    "port": "10022",
+    "serverPath": "/root/my",
+    "password": "g7845120",
+    "url": "http://localhost",
+    "nginxPath": "/usr/local/nginx/sbin/nginx",
+    "nginxConfPath": "/usr/local/nginx/conf/nginx.conf",
+    "id": "25a23f17-cfb6-47b3-9183-d3e20a2940b3",
+    "publishDate": 1626945556374
+  },
+  {
+    "name": "t",
+    "projectDirName": "dist",
+    "host": "localhost",
+    "username": "root",
+    "port": "10022",
+    "serverPath": "/root/my122",
+    "password": "g7845120",
+    "url": "http://localhost",
+    "nginxPath": "/usr/local/nginx/sbin/nginx",
+    "nginxConfPath": "/usr/local/nginx/conf/nginx.conf",
+    "id": "27927e99-06d9-4d8d-842b-3f364e58cca4"
+  }
+]

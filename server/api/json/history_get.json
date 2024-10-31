@@ -1,0 +1,13 @@
+{
+  "code": 200,
+  "message": "",
+  "success": true,
+  "result":[
+    {
+      "id": "版本id",
+      "pId": "项目Id",
+      "publishDate": "发布时间",
+      "filePath": "备份路径"
+    }
+  ]
+}

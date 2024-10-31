@@ -1,0 +1,20 @@
+{
+  "code": 200,
+  "message": "",
+  "success": true,
+  "result":[
+    {
+      "id": "项目id",
+      "name": "项目名称",
+      "host": "服务器ip",
+      "username": "Ssh用户名",
+      "port": "服务器ssh端口",
+      "serverPath": "前端项目部署路径",
+      "filePath": "前端项目工程名",
+      "password": "Ssh密码",
+      "url": "项目的访问路径",
+      "publishDate": "最后发布时间",
+      "nginxPath": "Nginx配置文件路径"
+    }
+  ]
+}
